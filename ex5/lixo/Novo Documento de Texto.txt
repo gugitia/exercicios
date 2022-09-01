@@ -1,0 +1,7 @@
+endpoint, o que é ?:
+*Define pontos de comunicação de acesso a comunicaçãos
+*todo dispositivo que está conectado em alguma rede é um endpoint
+*um ending point transfere dados
+
+swagger
+conjunto de ferramentas para desenvolver api
